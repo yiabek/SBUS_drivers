@@ -1,0 +1,1 @@
+This repository contains code used to conduct the climatic component of the analyses for the manuscript Spatial biases of participatory science programs in relation to climate, land use and pesticides.![image](https://github.com/yiabek/SBUS_drivers/assets/64115358/9bf3a74c-f61d-4a31-90c5-85f75c64988b)
